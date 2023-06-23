@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://img.shields.io/badge/yeonsoo.kang@hetic.net-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/YeonsooKANG-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>

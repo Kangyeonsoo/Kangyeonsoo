@@ -9,6 +9,6 @@ Hi there 👋
 
 <p>
     <a href="LINK TO: WHEN CLICKED">
-      <img src="https://github.r2v.ch/codewars?user=Ysoo&top_languages=true&theme=purple_dark&hide_clan=true" width="400"/>
+      <img src="https://github.r2v.ch/codewars?user=Ysoo&top_languages=true&theme=dark&hide_clan=true" width="400"/>
     </a>
 </p>
